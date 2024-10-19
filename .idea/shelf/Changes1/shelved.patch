@@ -1,0 +1,487 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1729318219436)
++++ b/.idea/workspace.xml	(date 1729318219436)
+@@ -0,0 +1,92 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/commboost_autotest.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/login/instruction.md" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/login/main.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/login/test-case.md" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 2
++}</component>
++  <component name="ProjectId" id="2ncfcjm7UxDQ9ge30ewjXGl8s5J" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.main.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;
++  }
++}</component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\lsOMEN\PycharmProjects\commboost_autotest\login" />
++      <recent name="C:\Users\lsOMEN\PycharmProjects\commboost_autotest" />
++    </key>
++  </component>
++  <component name="RunManager">
++    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++      <module name="commboost_autotest" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="C:\Users\lsOMEN\PycharmProjects\commboost_autotest\login\main.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++  </component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
++      </set>
++    </attachedChunks>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="" />
++      <created>1729277365307</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1729277365307</updated>
++    </task>
++    <servers />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1729318140846)
++++ b/.idea/misc.xml	(date 1729318140846)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.12 (commboost_autotest)" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (commboost_autotest)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1729318023764)
++++ b/.idea/vcs.xml	(date 1729318023764)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/commboost_autotest.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/commboost_autotest.iml b/.idea/commboost_autotest.iml
+new file mode 100644
+--- /dev/null	(date 1729318140841)
++++ b/.idea/commboost_autotest.iml	(date 1729318140841)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1729318023770)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1729318023770)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: login/instruction.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/login/instruction.md b/login/instruction.md
+new file mode 100644
+--- /dev/null	(date 1729318140864)
++++ b/login/instruction.md	(date 1729318140864)
+@@ -0,0 +1,2 @@
++Два теста написаны на языке python с использованием рекомендованной библиотеки playwrite. 
++Запускаем после установки не обходимых пакетов из requirements.txt через командную строку - py login/main.py или через любую IDE.
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1729318140852)
++++ b/.idea/modules.xml	(date 1729318140852)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/commboost_autotest.iml" filepath="$PROJECT_DIR$/.idea/commboost_autotest.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: test-case.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test-case.md b/test-case.md
+new file mode 100644
+--- /dev/null	(date 1729318140878)
++++ b/test-case.md	(date 1729318140878)
+@@ -0,0 +1,198 @@
++В результате анализа требований, а именно - за ожидаемое поведение брать фактическое поведение, и просмотра страницы 
++авторизации, на которой оба поля ввода были с аттрибутом readonly, я думал составить тест-кейсы проверки авторизации 
++без ввода данных для входа и проверки ссылок и кнопок в шапке сайта. Но логически рассуждая это не может являться 
++ожидаемым поведением и я решил написать тест-кейсы с удалением аттрибутов с полей ввода.
++
++
++Данные для входа:
++email: demo@example.com 
++password: 123321
++
++Тест-кейс 1.
++Название: Успешная авторизация зарегестрированного пользователя.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Ввести данные зарегестрированного пользователя
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя
++	-Нажать кнопку "Войти"
++Ожидаемый результат:
++Успешный вход в систему, периадресация на страницу https://demo.commboost.ru/account
++
++Тест-кейс 2.
++Название: Попытка авторизации без почты.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Очистить поле и оставить пустым
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя
++Ожидаемый результат:
++Кнопка "Войти" неакативна	
++
++Тест-кейс 3.
++Название: Попытка авторизации с почтой не верного формата.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Ввести почту, не соответствующую формату
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя
++Ожидаемый результат:
++Кнопка "Войти" неакативна, через некоторое время всплывает оповещение о неверном формате почты
++
++Тест-кейс 4.
++Название: Попытка авторизации без пароля.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++	-Ввести данные зарегестрированного пользователя
++	-Выбрать поле для ввода password
++    -Очистить поле и оставить пустым
++Ожидаемый результат:
++Кнопка "Войти" неакативна	
++
++Тест-кейс 4.
++Название: Попытка авторизации с паролем менее 6 символов.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++	-Ввести данные зарегестрированного пользователя
++	-Выбрать поле для ввода password
++    -Ввести 5 символов
++Ожидаемый результат:
++Кнопка "Войти" неакативна, через некоторое время всплывает оповещение о не правильной длине пароля
++
++Тест-кейс 5.
++Название: Попытка авторизации с не верной почтой.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Ввести данные зарегестрированного пользователя, удалив последнюю букву
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя
++	-Нажать кнопку "Войти"
++Ожидаемый результат:
++Вход в систему не произведен, всплывает сообщение о не правильном логине или пароле
++
++Тест-кейс 6.
++Название: Попытка авторизации с не верным паролем.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Ввести данные зарегестрированного пользователя
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя, добавив одну цифру
++	-Нажать кнопку "Войти"
++Ожидаемый результат:
++Вход в систему не произведен, всплывает сообщение о не правильном логине или пароле
++
++Тест-кейс 7.
++Название: Попытка перебора пароля.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++    -Зайти в DevTools
++    -Открыть вкладку Elements
++    -Перейти на строку поля ввода с аттрибутом name="email"
++    -Удалить аттрибут readonly
++    -Перейти на строку поля ввода с аттрибутом name="password"
++    -Удалить аттрибут readonly
++    -Вернуться на страницу авторизации
++    -Выбрать поле для ввода email
++    -Ввести данные зарегестрированного пользователя
++	-Выбрать поле для ввода password
++    -Ввести данные зарегестрированного пользователя, добавив одну цифру
++	-Нажать кнопку "Войти" 11 раз
++Ожидаемый результат:
++Вход в систему не произведен, всплывает сообщение о не правильном логине или пароле, система ограничивает попытки входа
++
++Тест-кейс 8.
++Название: Проверка ссылки на телеграмм бота.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++	-Нажать на ссылку с иконкой телеграмма
++Ожидаемый результат:
++Открывается новая страница https://t.me/commboost
++
++Тест-кейс 9.
++Название: Проверка ссылки на вотсап бота.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++	-Нажать на ссылку с иконкой вотсапа
++Ожидаемый результат:
++Открывается новая страница https://api.whatsapp.com/send/?phone=79956595051&text&type=phone_number&app_absent=0
++
++Тест-кейс 10.
++Название: Проверка ссылки на обратную связь по почте.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++	-Нажать на ссылку с иконкой конверта
++Ожидаемый результат:
++Открывается новая страница с новым письмом в почте, в котором подставлен получатель office@commboost.ru
++
++Тест-кейс 10.
++Название: Проверка кнопки "Оставить заявку".
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++	-Нажать на кнопку "Оставить заявку"
++Ожидаемый результат:
++Всплывает окно "Оставить заявку"
++
++Тест-кейс 10.
++Название: Проверка переключения светлого-темного режимов.
++Шаги воспроизведения: 
++    -Открыть страницу https://demo.commboost.ru/login
++	-Нажать на переключатель режима день-ночь
++	-Еще раз нажать на переключатель режима день-ночь
++Ожидаемый результат:
++При переключении режима применяется темная и светлая темы для всей страницы
+\ No newline at end of file
+Index: login/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/login/main.py b/login/main.py
+new file mode 100644
+--- /dev/null	(date 1729318140873)
++++ b/login/main.py	(date 1729318140873)
+@@ -0,0 +1,60 @@
++from playwright.sync_api import sync_playwright
++
++
++def test_successful_login(email, password) -> None:
++    with sync_playwright() as pw:
++        browser = pw.chromium.launch(headless=False)
++        page = browser.new_page()
++
++        # Переходим на страницу авторизации
++        page.goto("https://demo.commboost.ru/login")
++
++        # Удаляем аттрибуты readonly
++        remove_readonly_attributes(page)
++
++        # Вводим валидные данные
++        page.fill("input[name='email']", email)
++        page.fill("input[name='password']", password)
++
++        # Нажимаем кнопку "Войти"
++        page.click("button[type='submit']")
++
++        # Ожидание успешного перехода
++        page.wait_for_url("https://demo.commboost.ru/account")  # Открывается https://demo.commboost.ru/accounts и сразу
++        assert page.url == "https://demo.commboost.ru/account"  # перенаправляет на https://demo.commboost.ru/account
++
++        browser.close()
++
++
++def test_fault_login_miss_email(email, password) -> None:
++    with sync_playwright() as pw:
++        browser = pw.chromium.launch(headless=False)
++        page = browser.new_page()
++
++        # Переходим на страницу авторизации
++        page.goto("https://demo.commboost.ru/login")
++
++        # Удаляем аттрибуты readonly
++        remove_readonly_attributes(page)
++
++        # Вводим пустой логин и валидный пароль
++        page.fill("input[name='email']", email)
++        page.fill("input[name='password']", password)
++
++        # Проверяем кнопку "Войти"
++        assert page.get_by_role('button',disabled=True, name='submit')
++
++        browser.close()
++
++
++def remove_readonly_attributes(page):
++    page.evaluate("document.querySelector('input[name=\"email\"]').removeAttribute('readonly');")
++    page.evaluate("document.querySelector('input[name=\"password\"]').removeAttribute('readonly');")
++
++
++successful_authentication_data = {'email': "demo@example.com", 'password': "123321"}
++
++
++if __name__ == '__main__':
++    test_successful_login(successful_authentication_data['email'], successful_authentication_data['password'])
++    test_fault_login_miss_email('',successful_authentication_data['password'])

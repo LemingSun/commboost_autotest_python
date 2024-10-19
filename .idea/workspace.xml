@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/checktest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/old_test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/test_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/commboost_autotest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commboost_autotest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/instruction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LemingSun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LemingSun/commboost_autotest.git&quot;,
+    &quot;accountId&quot;: &quot;cd363c9e-3a08-4246-9d19-2dafaa68ed44&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/login/test_login.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ncfcjm7UxDQ9ge30ewjXGl8s5J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest for login.test_fixture.test_invalid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_fixture.test_invalid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_login.test_disable_button_submit_with_miss_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_login.test_fault_login_with_invalid_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_login.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in checktest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_login.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lsOMEN\PycharmProjects\commboost_autotest\playwrite_tests" />
+      <recent name="C:\Users\lsOMEN\PycharmProjects\commboost_autotest\login" />
+      <recent name="C:\Users\lsOMEN\PycharmProjects\commboost_autotest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest">
+    <configuration name="old_test_login" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/old_test_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for playwrite_tests.login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;playwrite_tests.login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for playwrite_tests.login.old_test_login.test_successful_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;playwrite_tests.login.old_test_login.test_successful_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for playwrite_tests.login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;playwrite_tests.login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;playwrite_tests.login.test_login.test_fault_login_with_invalid_email&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest" type="tests" factoryName="py.test">
+      <module name="commboost_autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (commboost_autotest)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.old_test_login" />
+      <item itemvalue="Python tests.pytest" />
+      <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" />
+      <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_successful_login" />
+      <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login" />
+      <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" />
+      <item itemvalue="Python tests.pytest for playwrite_tests.login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" />
+        <item itemvalue="Python tests.pytest for playwrite_tests.login" />
+        <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login" />
+        <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_successful_login" />
+        <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="" />
+      <created>1729277365307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729277365307</updated>
+    </task>
+    <servers />
+  </component>
+</project>
