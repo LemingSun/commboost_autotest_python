@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/checktest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/old_test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/test_links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwrite_tests/login/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/commboost_autotest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commboost_autotest.iml" afterDir="false" />
+    <list default="true" id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/instruction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwrite_tests/login/checktest.py" beforeDir="false" afterPath="$PROJECT_DIR$/playwrite_tests/login/checktest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwrite_tests/login/test_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/playwrite_tests/login/test_links.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -245,6 +241,58 @@
       <option name="presentableId" value="Default" />
       <updated>1729277365307</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1729976264709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729976264709</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1729976277358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729976277358</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1729976312150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729976312150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

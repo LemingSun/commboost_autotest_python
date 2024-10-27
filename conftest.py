@@ -30,6 +30,8 @@ def urls():
     return {
         "loginPage": f"{home}login",
         "personalAccount": f"{home}account",
+        "telegrammBot": "https://t.me/commboost",
+        "whatsapBot": "https://api.whatsapp.com/send/?phone=79956595051&text&type=phone_number&app_absent=0",
     }
 
 
