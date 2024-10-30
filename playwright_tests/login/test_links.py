@@ -7,7 +7,7 @@ def test_link_telegramm_bot(page, urls):
     pageTelegramm = page_info.value
 
     # Проверяем правильный урл страницы
-    assert pageTelegramm.url == urls["telegrammBot"]
+    assert pageTelegramm.url == urls["telegrammBot"], "Ошибка при открытии ссылки на телеграмм бота"
 
 
 def test_link_whatsap_bot(page, urls):
@@ -19,7 +19,7 @@ def test_link_whatsap_bot(page, urls):
     pageWhatsapp = page_info.value
 
     # Проверяем правильный урл страницы
-    assert pageWhatsapp.url == urls["whatsapBot"]
+    assert pageWhatsapp.url == urls["whatsapBot"], "Ошибка при открытии ссылки на вотсап бота"
 
 
 def test_email_feedback():
@@ -31,7 +31,7 @@ def test_button_put_request(page):
     page.get_by_role("button", name="Оставить заявку").click()
 
     # Проверяем появление окна с заявкой
-    assert page.locator("div._modal_content_vsmmv_12").is_visible()
+    assert page.locator("div._modal_content_vsmmv_12").is_visible(), "Ошибка отображения окна Оставить заявку."
 
 
 def test_night_mode(page, dayNightModeContent):
@@ -39,7 +39,9 @@ def test_night_mode(page, dayNightModeContent):
     page.locator("div._toggleSwitch_fdixj_33").click()
 
     # Проверяем настройки стиля в элементе html на соответствие режиму
-    assert dayNightModeContent["nightMode"] == page.eval_on_selector("html", "element => element.getAttribute('style')")
+    assert (dayNightModeContent["nightMode"] ==
+            page.eval_on_selector("html", "element => element.getAttribute('style')")), ("Ошибка при проверке ночного "
+                                                                                         "режима.")
 
 
 def test_day_mode_after_night_mode(page, dayNightModeContent):
@@ -48,4 +50,6 @@ def test_day_mode_after_night_mode(page, dayNightModeContent):
     page.locator("div._toggleSwitch_fdixj_33").click()
 
     # Проверяем настройки стиля в элементе html на соответствие режиму
-    assert dayNightModeContent["dayMode"] == page.eval_on_selector("html", "element => element.getAttribute('style')")
+    assert (dayNightModeContent["dayMode"] ==
+            page.eval_on_selector("html", "element => element.getAttribute('style')")), ("Ошибка при проверке дневного"
+                                                                                         "режима.")
