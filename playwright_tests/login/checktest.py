@@ -10,6 +10,9 @@ def test() -> None:
 
         page.locator("div._toggleSwitch_fdixj_33").click()
         # page.locator("div").filter(has_text=re.compile(r"^CommBoostОставить заявку$")).locator("div").nth(2).click()
+        page.wait_for_timeout(1000)
+
+        page.locator("div._toggleSwitch_fdixj_33").click()
         print(page.eval_on_selector("html", "element => element.getAttribute('style')"))
 
         page.wait_for_timeout(3000)
