@@ -8,9 +8,9 @@ def test() -> None:
 
         page.goto("https://demo.commboost.ru/login")
 
-        page.click("button._button_2wmor_35")
-
-        assert page.locator("div._modal_content_vsmmv_12").is_visible()
+        page.locator("div._toggleSwitch_fdixj_33").click()
+        # page.locator("div").filter(has_text=re.compile(r"^CommBoostОставить заявку$")).locator("div").nth(2).click()
+        print(page.eval_on_selector("html", "element => element.getAttribute('style')"))
 
         page.wait_for_timeout(3000)
         browser.close()

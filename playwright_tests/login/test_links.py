@@ -33,5 +33,19 @@ def test_button_put_request(page):
     # Проверяем появление окна с заявкой
     assert page.locator("div._modal_content_vsmmv_12").is_visible()
 
-def test_day_night_mode():
-    pass
+
+def test_night_mode(page, dayNightModeContent):
+    # Прожимаем переключатель режима день-ночь
+    page.locator("div._toggleSwitch_fdixj_33").click()
+
+    # Проверяем настройки стиля в элементе html на соответствие режиму
+    assert dayNightModeContent["nightMode"] == page.eval_on_selector("html", "element => element.getAttribute('style')")
+
+
+def test_day_mode_after_night_mode(page, dayNightModeContent):
+    # Прожимаем переключатель режима день-ночь дважды
+    page.locator("div._toggleSwitch_fdixj_33").click()
+    page.locator("div._toggleSwitch_fdixj_33").click()
+
+    # Проверяем настройки стиля в элементе html на соответствие режиму
+    assert dayNightModeContent["dayMode"] == page.eval_on_selector("html", "element => element.getAttribute('style')")

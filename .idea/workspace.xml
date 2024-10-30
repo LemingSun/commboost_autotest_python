@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939a2c59-476b-44c6-be79-8e2e4d130577" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/commboost_autotest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/commboost_autotest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright_tests/login/checktest.py" beforeDir="false" afterPath="$PROJECT_DIR$/playwright_tests/login/checktest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright_tests/login/test_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/playwright_tests/login/test_links.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for playwrite_tests.login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for playwright_tests.login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="commboost_autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,75 +120,75 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwrite_tests.login&quot;" />
+      <option name="_new_target" value="&quot;playwright_tests.login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for playwright_tests.login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="commboost_autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_tests/login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email&quot;" />
+      <option name="_new_target" value="&quot;playwright_tests.login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for playwrite_tests.login.old_test_login.test_successful_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for playwright_tests.login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="commboost_autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_tests/login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwrite_tests.login.old_test_login.test_successful_login&quot;" />
+      <option name="_new_target" value="&quot;playwright_tests.login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for playwrite_tests.login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for playwright_tests.login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="commboost_autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_tests/login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwrite_tests.login.test_login&quot;" />
+      <option name="_new_target" value="&quot;playwright_tests.login.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for playwright_tests.login.test_login.test_fault_login_with_invalid_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="commboost_autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwrite_tests/login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_tests/login" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;playwrite_tests.login.test_login.test_fault_login_with_invalid_email&quot;" />
+      <option name="_new_target" value="&quot;playwright_tests.login.test_login.test_fault_login_with_invalid_email&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -209,19 +213,17 @@
     <list>
       <item itemvalue="Python.old_test_login" />
       <item itemvalue="Python tests.pytest" />
-      <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" />
-      <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_successful_login" />
-      <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login" />
-      <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" />
-      <item itemvalue="Python tests.pytest for playwrite_tests.login" />
+      <item itemvalue="Python tests.pytest for playwright_tests.login.test_login.test_fault_login_with_invalid_email" />
+      <item itemvalue="Python tests.pytest for playwright_tests.login" />
+      <item itemvalue="Python tests.pytest for playwright_tests.login.test_login" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login.test_fault_login_with_invalid_email" />
-        <item itemvalue="Python tests.pytest for playwrite_tests.login" />
-        <item itemvalue="Python tests.pytest for playwrite_tests.login.test_login" />
-        <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_successful_login" />
-        <item itemvalue="Python tests.pytest for playwrite_tests.login.old_test_login.test_disable_button_submit_with_miss_email" />
+        <item itemvalue="Python tests.pytest for playwright_tests.login.test_login.test_fault_login_with_invalid_email" />
+        <item itemvalue="Python tests.pytest for playwright_tests.login" />
+        <item itemvalue="Python tests.pytest for playwright_tests.login.test_login" />
+        <item itemvalue="Python tests.pytest for playwright_tests.login" />
+        <item itemvalue="Python tests.pytest for playwright_tests.login" />
       </list>
     </recent_temporary>
   </component>
